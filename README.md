@@ -28,7 +28,7 @@ Spark is a minimalist dessert-selling website I developed using **HTML**, **CSS*
 - **Languages Used**:  
   - **HTML** for structure  
   - **CSS** for styling  
-  - **JavaScript** for interactivity  
+  - **JavaScript** for basic alerts  
   - **Frameworks Used**: Bootstrap and Bulma
 - **Cross-Browser Compatibility**: Compatible with all major browsers  
 - **Performance**: Designed for fast loading and smooth navigation
