@@ -1,12 +1,12 @@
-# Muffy 🧁 - Premium Dessert & Confectionery Website
+# Muffy <img src="cupcake.png" width="24" height="24" alt="Cupcake"> - Premium Dessert & Confectionery Website
 
 Welcome to **Muffy**, an elegant, modern, and fully responsive frontend web application designed for a premium dessert and confectionery brand. This project showcases highly polished user interfaces, rich design aesthetics, and micro-interactions optimized for web experience.
 
-🔗 **Live Demo**: [muffy-website.vercel.app](https://spark-website.vercel.app/) *(formerly Spark)*
+**Live Demo**: [muffy-website.vercel.app](https://spark-website.vercel.app/) *(formerly Spark)*
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Gourmet Design Aesthetic:** A visually stunning interface utilizing modern typography, harmonious warm color palettes, smooth gradient transitions, and responsive grid layouts.
 * **Responsive Architecture:** Fully optimized for seamless browsing across desktops, tablets, and mobile devices.
@@ -16,7 +16,7 @@ Welcome to **Muffy**, an elegant, modern, and fully responsive frontend web appl
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Structure:** HTML5 (Semantic and SEO-optimized markup)
 * **Styling:** Custom Vanilla CSS3 (Flexible layouts, animations, transitions)
@@ -25,7 +25,7 @@ Welcome to **Muffy**, an elegant, modern, and fully responsive frontend web appl
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── about.css          # Styling for the About page
@@ -43,7 +43,7 @@ Welcome to **Muffy**, an elegant, modern, and fully responsive frontend web appl
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To run this project locally, you only need a modern web browser.
@@ -64,12 +64,12 @@ To run this project locally, you only need a modern web browser.
 
 ---
 
-## 🍰 Contribution
+## Contribution
 
 Contributions, bug reports, and feature requests are welcome! Feel free to open issues or submit pull requests to enhance the visual polish or interactivity of the website.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
